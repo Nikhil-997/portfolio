@@ -585,6 +585,13 @@ section .title::after {
 }
 
 
+/*button*/
+
+.b1 {
+    background-color: red;
+}
+
+
 /* about section styling */
 
 .about .title::after {
@@ -791,7 +798,7 @@ section .title::after {
 /* teams section styling */
 
 .teams .title::after {
-    content: "who with me";
+    content: "CODE BELOW";
 }
 
 .teams .carousel .card {
